@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+ body { background-image :url('/grass.jpg');
+       padding-top:00px;
+       padding-left:700px;
+       background-color:#F5F5F5;
+       font-style:italic
+       font-size:small;
+     }
